@@ -4,5 +4,3 @@ numpy
 scikit-learn
 gunicorn
 mysql-connector-python
-pillow
-ultralytics
